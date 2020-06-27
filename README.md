@@ -1,3 +1,12 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "[Get Started](https://bookdown.org/yihui/bookdown/get-started.html)" at https://bookdown.org/yihui/bookdown/ for how to compile this example into HTML. You may generate a copy of the book in `bookdown::pdf_book` format by calling `bookdown::render_book('index.Rmd', 'bookdown::pdf_book')`. More detailed instructions are available here https://bookdown.org/yihui/bookdown/build-the-book.html.
+# R4SS  
 
-You can find the preview of this example at https://bookdown.org/yihui/bookdown-demo/.
+R statistical programming language for Social Sciences  
+
+Social science research has become more sophisticated in their statistical analysis. Significant gaps exist in combining a gentle introduction to statistical concepts with a analytical concepts that undergird social science analysis.
+This collection is an attempt to introduce the beginner social scientist to statistical concepts and programming methods using R, using material and concepts from social science analysis.  
+
+Most of the perspectives and source material will be from economics, but we will not limit ourselves in terms of scope.  
+
+Special attention will be paid to encouraging best practices, maintaining robust code, and reproducability of results.  
+
+TOC TBD  
