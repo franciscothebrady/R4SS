@@ -9,4 +9,3 @@ Most of the perspectives and source material will be from economics, but we will
 
 Special attention will be paid to encouraging best practices, maintaining robust code, and reproducability of results.  
 
-TOC TBD  

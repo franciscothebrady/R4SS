@@ -1,0 +1,41 @@
+---
+title: "TOC"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Table of Contents
+
+1.  intro: what is the aim of the book
+   *  Why do social science practitioners need programming and statistical skills
+2.  introduction to R: beginning steps
+   *  begin with case study of social science data project
+     *  Show the student some output (I'm thinking specifically of a cool chart and some analysis)
+     *  Replicate it! Download the data from somewhere and ggplot it 
+     *  Now they have something cool **they** did. 
+     *  Now what did they just do? 
+3.  introduction to data types in R
+   *  How does R think about data? 
+     *  how do we even get data into R ?
+       *  extracting data stored in different formats (pdfs, csv, etc)
+       *  now what ?
+   *  Data types
+       *  How does R think about these objects? 
+       *  numerical vs categorical, continuous vs discrete, ordered and unordered
+4.  statistical concepts for effective for social science research
+   *  What can we do to learn about our data? 
+   *  descriptive statistics: what we know
+   * elaborate! 
+5.  correlation - connecting the dots
+6.  causal inference - establishing a direction
+7.  external validity - controlling for confounders (maybe move to later chapter)
+   * reproducable research
+8.  collaboration and project organization
+   *  longer projects
+   *  version control: git
+
+
+
